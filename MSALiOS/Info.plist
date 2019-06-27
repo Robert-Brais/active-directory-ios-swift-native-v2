@@ -21,7 +21,7 @@
 		<dict>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>msauth.com.microsoft.identitysample.MSALiOS</string>
+				<string>msal1242c56b-7f99-4f11-a140-8d686f87e0aa</string>
 			</array>
 		</dict>
 	</array>
